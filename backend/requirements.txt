@@ -1,0 +1,17 @@
+# Core Web API Server
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# Low-Latency Screen Capturing
+mss>=9.0.0
+pillow>=10.0.0
+pygetwindow>=0.0.9
+
+# NVIDIA NIM Integration
+openai>=1.0.0
+
+# OCR Engines (Optional, fallback provided)
+# pytesseract>=0.3.10
+# easyocr>=1.7.1
